@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GitTest.iml" filepath="$PROJECT_DIR$/GitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitTest/frontWeb/frontWeb.iml" filepath="$PROJECT_DIR$/../GitTest/frontWeb/frontWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitTest/queryServer/queryServer.iml" filepath="$PROJECT_DIR$/../GitTest/queryServer/queryServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitTest/sessionServer/sessionServer.iml" filepath="$PROJECT_DIR$/../GitTest/sessionServer/sessionServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GitTest/tradeServer/tradeServer.iml" filepath="$PROJECT_DIR$/../GitTest/tradeServer/tradeServer.iml" />
+    </modules>
+  </component>
+</project>
