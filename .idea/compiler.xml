@@ -7,16 +7,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="frontWeb" />
+        <module name="queryInterface" />
         <module name="queryServer" />
+        <module name="sessionInterface" />
         <module name="sessionServer" />
+        <module name="tradeInterface" />
         <module name="tradeServer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="frontWeb" target="1.5" />
       <module name="GitTest" target="1.5" />
+      <module name="queryInterface" target="1.5" />
       <module name="queryServer" target="1.5" />
+      <module name="sessionInterface" target="1.5" />
       <module name="sessionServer" target="1.5" />
+      <module name="tradeInterface" target="1.5" />
       <module name="tradeServer" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -13,6 +13,9 @@
         <module>sessionServer</module>
         <module>tradeServer</module>
         <module>frontWeb</module>
+        <module>queryInterface</module>
+        <module>sessionInterface</module>
+        <module>tradeInterface</module>
     </modules>
 
 
